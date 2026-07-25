@@ -4,11 +4,11 @@ open System.IO
 
 // --- Site metadata (edit these for your site) ---
 // Only change the values in quotes - the rest is just labels.
-let siteTitle = "SkunkHTML"
-let siteDescription = "The simplest blog on GitHub Pages. Fork, enable Pages, write Markdown."
+let siteTitle = "7元的栖鸢窝"
+let siteDescription = "存放一些栖鸢的碎碎念。"
 let siteBaseUrl = "https://mg0x7be.github.io/skunk-html"  // No trailing slash. Include repo name if using project pages.
-let siteLanguage = "en"
-let siteAuthor = ""  // Optional, used in RSS feed and meta tags
+let siteLanguage = "zh-CN"
+let siteAuthor = "7yuan555"  // Optional, used in RSS feed and meta tags
 let siteImage = "assets/avatar.jpg"  // Optional, preview image for social shares (og:image), relative to site root. "" disables
 
 // --- Interface text (translate these if your blog is not in English) ---
