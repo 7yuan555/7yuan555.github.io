@@ -12,7 +12,7 @@ let siteAuthor = "7yuan555"  // Optional, used in RSS feed and meta tags
 let siteImage = "assets/avatar.jpg"  // Optional, preview image for social shares (og:image), relative to site root. "" disables
 
 // --- Interface text (translate these if your blog is not in English) ---
-let blogEntriesHeading = "blog entries"  // Section heading above the post list on the front page
+let blogEntriesHeading = "鸢羽："  // Section heading above the post list on the front page
 let publishedOnText = "Published on"  // Shown before the date at the end of each post
 let untitledPageTitle = "No Title"  // Fallback title for pages without a # heading
 let notFoundTitle = "Page not found"  // Browser tab title of the 404 page
