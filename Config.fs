@@ -9,7 +9,7 @@ let siteDescription = "存放一些栖鸢的碎碎念。"
 let siteBaseUrl = "https://mg0x7be.github.io/skunk-html"  // No trailing slash. Include repo name if using project pages.
 let siteLanguage = "zh-CN"
 let siteAuthor = "7yuan555"  // Optional, used in RSS feed and meta tags
-let siteImage = "assets/avatar.jpg"  // Optional, preview image for social shares (og:image), relative to site root. "" disables
+let siteImage = "assets/鸢guang.jpg"  // Optional, preview image for social shares (og:image), relative to site root. "" disables
 
 // --- Interface text (translate these if your blog is not in English) ---
 let blogEntriesHeading = "鸢羽："  // Section heading above the post list on the front page
